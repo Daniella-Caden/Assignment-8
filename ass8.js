@@ -23,4 +23,4 @@ function second(name)
     console.log(name);
 }
 
-first(second(name));
+first(second("Daniella"));
