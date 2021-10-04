@@ -16,12 +16,11 @@ for(let i=1;i<=19;i++)
 
 function first()
 {
-    return second("Daniella");
+    second("Daniella");
 }
 function second(name)
 {
-    return name;
+    console.log(name);
 }
 
-let n=first;
-console.log(n);
+first;
