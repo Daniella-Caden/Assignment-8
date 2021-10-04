@@ -9,10 +9,6 @@ details("Michaela","15");
 details("Jayden","9");
 details("Michael","20");
 
-for(let i=1;i<=19;i++)
-{
-    console.log("I love Uganda");
-}
 
 function first()
 {
@@ -24,3 +20,11 @@ function second(name)
 }
 
 first();
+
+
+
+for(let i=1;i<=19;i++)
+{
+    console.log("I love Uganda");
+}
+
