@@ -18,7 +18,6 @@ function second(name)
 {
     console.log(name);
 }
-
 first();
 
 
@@ -28,7 +27,6 @@ let concat= (a,b) =>{
 
     return result;
 }
-
 let a;
 a="hey";
 let b;
