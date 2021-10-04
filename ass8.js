@@ -13,3 +13,14 @@ for(let i=1;i<=19;i++)
 {
     console.log("I love Uganda");
 }
+
+function first(second(name))
+{
+    second(name);
+}
+function second(name)
+{
+    console.log(name);
+}
+
+first(second(name));
