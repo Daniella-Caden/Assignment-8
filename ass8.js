@@ -9,14 +9,7 @@ details("Michaela","15");
 details("Jayden","9");
 details("Michael","20");
 
-function first(second)
+for(let i=1;i<=19;i++)
 {
-    second(name);
+    console.log("I love Uganda");
 }
-function second(name)
-{
-    console.log(name);
-}
-
-first(second);
-second("Daniella");
