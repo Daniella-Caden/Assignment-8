@@ -16,7 +16,7 @@ for(let i=1;i<=19;i++)
 
 function first()
 {
-    return second(name);
+    return second("Daniella");
 }
 function second(name)
 {
