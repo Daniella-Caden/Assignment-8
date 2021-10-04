@@ -13,7 +13,7 @@ function first(second)
 {
     second(name);
 }
-function second(name);
+function second(name)
 {
     console.log(name);
 }
