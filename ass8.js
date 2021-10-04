@@ -20,7 +20,7 @@ function first()
 }
 function second(name)
 {
-    console.log(name);
+    return name;
 }
 
 let n=first;
