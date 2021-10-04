@@ -23,4 +23,5 @@ function second(name)
     console.log(name);
 }
 
-first;
+let n=first;
+console.log(n);
