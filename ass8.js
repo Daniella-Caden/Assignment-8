@@ -30,9 +30,9 @@ let concat= (a,b) =>{
 }
 
 let a;
-a=9;
+a="hey";
 let b;
-b=8;
+b="there";
 console.log(concat(a,b));
 
 
